@@ -1,0 +1,17 @@
+{
+  "name": "",
+  "version": "",
+  "description": "",
+  "scripts": {
+    "test": "echo \"No tests yet...\""
+  },
+  "author": "",
+  "dependencies": {
+    "html-to-image": "^0.1.1",
+    "node-html-to-image": "^1.1.0",
+    "puppeteer": "^2.1.1"
+  },
+  "devDependencies": {
+    "minimist": ">=1.2.2"
+  }
+}
